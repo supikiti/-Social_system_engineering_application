@@ -1,0 +1,2 @@
+# -Social_system_engineering_application
+社会システム工学応用
